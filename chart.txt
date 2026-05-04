@@ -1,0 +1,9 @@
+chart
+pseudocode
+ablation
+experimental results
+datasets
+mathematical equations
+methodology
+architecture diagram
+result
